@@ -8,3 +8,7 @@ I enjoy JavaScript because it utilizes both Functional programming and Object-or
 <div> 
 
 </div>
+
+# Javascript
+
+I like javascript because it's like a puzzle!
