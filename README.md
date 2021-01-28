@@ -4,3 +4,8 @@
 # practiceRepo
 
 I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
+
+<div> 
+<h1> 2 week long project oh boyyyy. Are we going to divide responsibilities or schedule a group time?
+</h1>
+</div>
